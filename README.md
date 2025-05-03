@@ -1,6 +1,6 @@
 
 
-## 🐞 Bug Bounty & Vulnerability Assessment Portfolio
+## 🐞 Bug Bounty & Vulnerability Assessment
 
 This project showcases my experience in **bug bounty hunting**, focusing on identifying and reporting security vulnerabilities in real-world web applications. It includes tools, techniques, and real-case walkthroughs demonstrating web app security testing and ethical hacking practices.
 
